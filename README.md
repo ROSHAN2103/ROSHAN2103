@@ -22,6 +22,13 @@
 <div align="center"> <a href="https://github.com/roshan210">
   <img alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roshan2103&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROSHAN2103/ROSHAN2103/output/github-pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROSHAN2103/ROSHAN2103/output/github-pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 
  <div align="center">
